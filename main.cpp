@@ -11,4 +11,6 @@ int main () {
     cout << "---------" << endl;
     system("flatpak update -y");
     cout << "---------" << endl;
+
+    return 0;
 }
